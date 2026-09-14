@@ -65,7 +65,7 @@
       
 ### <strong><i>Como clonar o projeto:</i></strong>
 
-<p> git clone https://github.com/AlanFaraj83/beautysalon.git </p>
+<p> git clone https://github.com/AlanFaraj1983/-beautysalon.git </p>
 
 </br>
 
